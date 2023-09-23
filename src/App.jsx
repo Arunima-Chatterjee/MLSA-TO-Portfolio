@@ -34,8 +34,8 @@ const siteProps = {
   twitter: "https://twitter.com/TheHappyBaloney",
 };
 
-const primaryColor = "#4E567E";
-const secondaryColor = "#D2F1E4";
+const primaryColor = "#873260";
+const secondaryColor = "#556b2f";
 
 const App = () => {
   return (
