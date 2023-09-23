@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Arunima Chatterjee",
-  title: " Learner | Developer | Leader ",
+  title: " Learner Developer Leader ",
   email: "a.chatterjeeofficial2003@gmail.com",
   gitHub: "https://github.com/Arunima-Chatterjee",
   instagram: "https://www.instagram.com/_satanic.shadows/",
