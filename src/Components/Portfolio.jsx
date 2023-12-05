@@ -37,10 +37,10 @@ const projectList = [
     url: "https://devfolio.co/projects/footprintify-f959",
   },
   {
-    title: "My Resume Site",
+    title: "My Resume",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Here is my resume in a pdf format. Resume Website coming soon.",
+    url: "https://drive.google.com/file/d/1IcJEhpNpSmvo-PMRZAeOQWt9wv6rJZZb/view?usp=sharing",
   },
 ];
 
