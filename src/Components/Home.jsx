@@ -20,7 +20,8 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "/workspaces/MLSA-TO-Portfolio/src/images/My Pic.jpg";
+import image from "../images/Website_pic.jpg";
+//adjust the picture size
 
 const imageAltText = "Adult female standing behind a opodium with a mic in hand";
 
