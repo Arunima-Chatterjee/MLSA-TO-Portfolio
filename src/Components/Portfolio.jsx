@@ -38,8 +38,7 @@ const projectList = [
   },
   {
     title: "My Resume",
-    description:
-      "Here is my resume in a pdf format. Resume Website coming soon.",
+    description: "Here is my resume in a pdf format. Resume Website coming soon.",
     url: "https://drive.google.com/file/d/1IcJEhpNpSmvo-PMRZAeOQWt9wv6rJZZb/view?usp=sharing",
   },
 ];
